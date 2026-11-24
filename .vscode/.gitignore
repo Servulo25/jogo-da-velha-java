@@ -1,3 +1,3 @@
 out/
 *.class
-git rm --cached -r out
+
